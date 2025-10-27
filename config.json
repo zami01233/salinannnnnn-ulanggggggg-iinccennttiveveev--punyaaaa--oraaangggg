@@ -1,0 +1,27 @@
+{
+  "bundleRepetitions": 10,
+  "addContactRepetitions": 10,
+  "swapRepetitions": 33,
+  "tcentSwapRange": {
+    "min": 0.1,
+    "max": 0.2
+  },
+  "smplSwapRange": {
+    "min": 0.1,
+    "max": 0.3
+  },
+  "bullSwapRange": {
+    "min": 0.1,
+    "max": 0.2
+  },
+  "flipSwapRange": {
+    "min": 0.1,
+    "max": 0.3
+  },
+  "loopHours": 4,
+  "transferRepetitions": 20,
+  "tcentTransferRange": {
+    "min": 0.001,
+    "max": 0.002
+  }
+}
